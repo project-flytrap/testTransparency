@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/testTransparency/static/css/main.d07f3bd3.chunk.css",
+    "main.js": "/testTransparency/static/js/main.d93534f2.chunk.js",
+    "main.js.map": "/testTransparency/static/js/main.d93534f2.chunk.js.map",
+    "runtime-main.js": "/testTransparency/static/js/runtime-main.a4c47a31.js",
+    "runtime-main.js.map": "/testTransparency/static/js/runtime-main.a4c47a31.js.map",
+    "static/js/2.a6612236.chunk.js": "/testTransparency/static/js/2.a6612236.chunk.js",
+    "static/js/2.a6612236.chunk.js.map": "/testTransparency/static/js/2.a6612236.chunk.js.map",
+    "static/js/3.cf46d999.chunk.js": "/testTransparency/static/js/3.cf46d999.chunk.js",
+    "static/js/3.cf46d999.chunk.js.map": "/testTransparency/static/js/3.cf46d999.chunk.js.map",
+    "index.html": "/testTransparency/index.html",
+    "static/css/main.d07f3bd3.chunk.css.map": "/testTransparency/static/css/main.d07f3bd3.chunk.css.map",
+    "static/js/2.a6612236.chunk.js.LICENSE.txt": "/testTransparency/static/js/2.a6612236.chunk.js.LICENSE.txt",
+    "static/media/aishiteruedited2x.85a6d5e2.png": "/testTransparency/static/media/aishiteruedited2x.85a6d5e2.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a4c47a31.js",
+    "static/js/2.a6612236.chunk.js",
+    "static/css/main.d07f3bd3.chunk.css",
+    "static/js/main.d93534f2.chunk.js"
+  ]
+}
